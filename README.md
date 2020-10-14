@@ -10,3 +10,4 @@ Ref. Jason Holloway [[Site1]](https://github.com/jason-holloway?tab=overview&fro
 
 Ref. Holloway J, Asif M S, Sharma M K, et al. Toward long-distance subdiffraction imaging using coherent camera arrays[J]. IEEE Transactions on Computational Imaging, 2016, 2(3): 251-265.
 
+The forward imaging model can refer to [[Link]](https://github.com/Hao-Xu-optics/MyBlog/blob/master/%E5%AE%8F%E8%A7%82FP%E6%A8%A1%E5%9E%8B%E6%8E%A8%E5%AF%BC.md).
